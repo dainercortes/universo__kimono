@@ -226,7 +226,6 @@ main .sakura {
         width: 100%;
         height: calc(70vh + 80px);
         border-radius: 0;
-        backdrop-filter: blur(2px);
         top: 0;
         left: 0;
         right: 0;
